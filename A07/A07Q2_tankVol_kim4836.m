@@ -6,7 +6,7 @@ function [tank_volume, fluid_volume, drain_time] = A07Q2_tankVol_kim_4836(vec_di
 % fluid height, orientation, and drain size.
 %
 % Function Call
-% [tank_volume, fluid_volume, drain_time] = A08Q4_tankVol_lee4686(vec_dim, height, diameter, orientation)
+% [tank_volume, fluid_volume, drain_time] = A07Q2_tankVol_kim4836(vec_dim, height, diameter, orientation)
 %
 % Input Arguments
 % Vector value of length and diameter of tank: vec_dim(m)
